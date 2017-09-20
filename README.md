@@ -1,2 +1,2 @@
 # Napier-work
-Stores work done for Uni
+Stores work done for Algorithms & data structures class
